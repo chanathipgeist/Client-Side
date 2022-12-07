@@ -10,11 +10,11 @@
 // console.log(profile.interests)
 
 // let book = { isbn: 123456789,
-//     title: 'JavaScript',
-//     author: {
-//         firstname: 'Umaporn',
-//         lastname:   'Sup'
-//     }
+//             title: 'JavaScript',
+//             author: {
+//                  firstname: 'Umaporn',
+//                  lastname:   'Sup'
+//              }
 // } 
 
 // book.author.firstname='Chanathip'
@@ -51,8 +51,8 @@ class Point{
 
 // let subject={id:1 , title:'int201'}
 
-// // console.log(Object.prototype.isPrototypeOf(subject))
-// // console.log(Point.prototype.isPrototypeOf(subject))
+// console.log(Object.prototype.isPrototypeOf(subject))
+// console.log(Point.prototype.isPrototypeOf(subject))
 
 // const lecSubject= Object.create(subject)
 // console.log(lecSubject)

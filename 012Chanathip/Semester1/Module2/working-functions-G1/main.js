@@ -32,7 +32,7 @@
 // console.log(p1.toString())
 // console.log(p2.toString())
 
-//check empty
+// //check empty
 // const obj1={}
 // const obj2={id:1,product:'pen'}
 
@@ -47,9 +47,9 @@
 const buyer={
     id:1234,
     fullName: {
-    firstName:'Somchai',
-    lastName:'Jaidee'
-},
+        firstName:'Somchai',
+     lastName:'Jaidee'
+    },
     totalPoints:1000
 }
 
@@ -78,7 +78,7 @@ const address={
 // console.log(id)
 // console.log(buyerDetails)
 
-//destruction array with nested object
+// //destruction array with nested object
 // const products=[
 //     {productId:1, productName:'Pen'},
 //     {productId:2, productName:'Notebook'}

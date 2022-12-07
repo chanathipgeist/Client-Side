@@ -44,7 +44,7 @@
 // let b=[...a] //spread
 // console.log(b)
 
-// let [x,...y]=a//rest
+// let [x,...y]=a //rest
 // console.log(x)
 // console.log(y)
 

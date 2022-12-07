@@ -1,6 +1,11 @@
-function printNumbers1(num1, num2, num3) {
-    for (const argu of arguments) {
-    console.log(argu) 
-    }
-    }
-    printNumbers1(5, 10, 15) //5, 10, 15
+const person = [
+    { id: 1, name: 'Suda' },
+    { id: 2, name: 'Surapong' },
+    { id: 3, name: 'Somchai' }
+    ]
+    function getPersonName([ , ,{ name }]) {
+        return name
+    }  
+    
+    
+    console.log(getPersonName(person)) // Sompong
