@@ -1,5 +1,5 @@
 // //1. create <li> elementconst 
-// liElement = document.createElement('li') //<li></li>
+// const liElement = document.createElement('li') //<li></li>
 
 // //2. assign class attribute  with value "developer" to <li> element
 // liElement.setAttribute('class', 'developer') //<li class="developer"></li>
@@ -15,7 +15,7 @@
 // console.log(ulElementNode)
 
 // //4. append <li> child to <ul> parent 
-// elementulElementNode.appendChild(liElement)
+// ulElementNode.appendChild(liElement)
 
 
 
@@ -32,6 +32,7 @@ console.log(liElementNodes[0]) // <li class="developer">INT201 Client Side I</li
 
 //transform array-like to array so that we can use foreach
 Array.from(liElementNodes).forEach((element) => console.log(element))
+//show element in liElementNodes
 
 //3. getElementsByClassName
 const developNodes = document.getElementsByClassName('developer')
@@ -52,10 +53,11 @@ pNodes.forEach((element) => console.log(element))
 //<p>Lect.Kriengkrai Porkaew</p>
 //<p class="developer">Lect.Pichet Limvajiranan</p>
 //<p>Lect. Umaporn Supasitthimethee</p>
+//เอาทุกตัวที่เป็นp
 
 const pFirstNode = document.querySelector('p')
 console.log(pFirstNode)
-//<p>Lect.Kriengkrai Porkaew</p>
+//<p>Lect.Kriengkrai Porkaew</p> เอาแค่ตัวแรกที่เป็นp
 
 // const liDevopsNodes = document.querySelectorAll('li.devops')
 const liDevopsNodes = document.querySelectorAll('li[class="devops"]')
@@ -69,12 +71,14 @@ console.log(divCourseList[0])
 
 // insertBefore(newNode, referenceNode)
 //1. parent node (query)
-// <ul>const ulTagNames = document.getElementsByTagName('ul')
+// <ul>
+const ulTagNames = document.getElementsByTagName('ul')
 const ulParentNode = ulTagNames[0]
 console.log(ulParentNode)
 
 //2. new node (create)
-//  <li class="developer">INT200 Data Structure and Algorithms</li>const liElement = document.createElement('li')
+//  <li class="developer">INT200 Data Structure and Algorithms</li>
+const liElement = document.createElement('li')
 liElement.setAttribute('class', 'developer')
 liElement.textContent = 'INT200 Data Structure and Algorithms'
 

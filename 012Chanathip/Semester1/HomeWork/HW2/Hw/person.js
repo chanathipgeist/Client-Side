@@ -30,3 +30,6 @@ Person.prototype.isEqual=function(anotherPerson){
 
 Person.prototype.toString=function (){
     return `fullname:${this.getFullName()}, age: ${this.getAge()}`}
+
+
+    console.log(typeof Person)
