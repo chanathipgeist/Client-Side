@@ -16,10 +16,10 @@ function todoManagement() {
     return todos
   }
   function getNumberOfDone() {
-    return todos.filter((todo)=>todo.done===true)
+    return todos.filter((todo)=>todo.done===true).length
   }
   function getNumberOfNotDone() {
-    return todos.filter((todo)=>todo.done===false)
+    return todos.filter((todo)=>todo.done===false).length
   }
 
   return {

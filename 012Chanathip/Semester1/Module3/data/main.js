@@ -62,8 +62,8 @@ const lecturerButton=divButton.children[1]
 // //create student handler function
 // const studentHandler=()=>{
 //     //console.log(students)
-//     const ulParentElement=document.querySelector('ul')
-//     ulParentElement.textContent=''
+//     const ulParentElement=document.querySelector('ul') //queryหาพ่อ
+//     ulParentElement.textContent='' //setให้เป็นว่างๆตั้งแต่แรก เวลากดจะได้รีเฟรชใหม่ตลอด
 //     for (let i=0;i<students.length;i++){
         
 //         const liElement = document.createElement('li')
@@ -120,16 +120,16 @@ const lecturerButton=divButton.children[1]
 //     event phase: ${event.eventPhase}`)
 // }, true)
 
-// //function declaration
-// // function studentHandler(){
-// //     alert('Good bye')
-// // }
+//function declaration
+// function studentHandler(){
+//     alert('Good bye')
+// }
 
-// //function expression with arrow function
-// // const studentHandler=()=>{
-// //     alert('Good bye')
-// // }
-// // //2.add event handler by using function name
-// // studentButton.addEventListener('click', studentHandler)
-// // studentButton.removeEventListener('click', studentHandler)
+//function expression with arrow function
+// const studentHandler=()=>{
+//     alert('Good bye')
+// }
+// //2.add event handler by using function name
+// studentButton.addEventListener('click', studentHandler)
+// studentButton.removeEventListener('click', studentHandler)
 

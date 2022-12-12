@@ -1,17 +1,49 @@
-// const {Girlfriend,Boyfriend} = require('./class.js')
-import { Girlfriend , Boyfriend } from "./class.js"
-const no1 = new Girlfriend()
-no1.addToStock('Wanasanan','Tri-apibanwongsa','65130500070')
-no1.addToStock('Prapassorn','Toopprateep','65130500071')
-no1.addToStock('Thanaporn','Panyanapas','65130500072')
-// console.log(no1.getStock())
-// console.log(no1.firstGirlfriend())
-console.log(no1.searchGirlfriend('Wanasanan'))
+import { Girlfriend } from "./list/Girlfriend.js";
+import { Idol } from "./list/Idol.js";
 
-const ployGirlFriend = new Boyfriend()
-ployGirlFriend.addToStock('Chanathip','Buppanhasamai','64130500012')
-ployGirlFriend.addToStock('Chanathippudes','Buppanhasamaiimo','64130500013')
-console.log(ployGirlFriend.firstBoyfriend())
+const divBotton=document.getElementById("buttonPanel")
+const addBtn=divBotton.children[0]
+const idolBtn=divBotton.children[1]
+
+const GirlfriendList=()=>{
+    const ulParentElement=document.querySelector('ul')
+    ulParentElement.textContent =''
+    for (let i=0;i<Girlfriend.length;i++){
+    const listGf=document.createElement('li')
+    listGf.textContent=`Name:${Girlfriend[i].name} ID:${Girlfriend[i].id}`
+    ulParentElement.appendChild(listGf)
+    }
+   
+}
+addBtn.addEventListener("click",GirlfriendList,false)
 
 
-const rootNode=window.document
+
+const AvList=()=>{
+    const ulParentElement=document.querySelector('ul')
+    ulParentElement.textContent =''
+    for (let i=0;i<Idol.length;i++){
+    const listAv=document.createElement('li')
+    listAv.textContent=`Name:${Idol[i].name} ID:${Idol[i].code}`
+    ulParentElement.appendChild(listAv)
+    }
+   
+}
+idolBtn.addEventListener("click",AvList,false)
+
+
+
+const search=document.getElementById("search")
+// console.log(search)
+const pElement=document.getElementById("gf")
+
+
+// //ปุ่มsearch
+// search.addEventListener('keypress',(event)=>{
+//     if(event.key==='Enter')
+//         pElement.textContent=search.value
+// })
+
+search.addEventListener('input',()=>{
+    pElement.textContent=search.value
+})
