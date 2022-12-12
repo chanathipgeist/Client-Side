@@ -39,5 +39,5 @@ function todoUserInterface() {
   }
   return { showTodoItem, showNumberOfDone, showNumberOfNotDone, removeTodoItem }
 }
-// export { todoUserInterface }
-module.exports = todoUserInterface
+export { todoUserInterface }
+// module.exports = todoUserInterface

@@ -6,11 +6,6 @@ const studentButton=divButton.children[0]
 const lecturerButton=divButton.children[1]
 
 
-
-
-
-
-
 // const dataListHandler=(event)=>{
 //     // alert(event.target.id)
 //     const items=event.target.id==="1"?students:lecturers //?:
@@ -51,9 +46,10 @@ const lecturerButton=divButton.children[1]
 //    }
 // }
 
-// //const studentHandler=()=>{dataListHandler(students)}
+// const studentHandler=()=>{dataListHandler(students)}
 // studentButton.addEventListener('click', studentHandler)
-// //const lecturerHandler=()=>{dataListHandler(lecturers)}
+
+// const lecturerHandler=()=>{dataListHandler(lecturers)}
 // lecturerButton.addEventListener('click', lecturerHandler)
 
 
@@ -93,7 +89,7 @@ const lecturerButton=divButton.children[1]
 // }
 
 // studentButton.addEventListener('click',studentHandler)
-// lectureButton.addEventListener('click',lectureHandler)
+// lecturerButton.addEventListener('click',lectureHandler)
 
 
 
