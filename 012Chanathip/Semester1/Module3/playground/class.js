@@ -61,3 +61,4 @@ searchBoyfriend(firstname){
 }
 // module.exports= {Girlfriend,Boyfriend}
 export {Girlfriend,Boyfriend}
+export class Girlfriend {}
