@@ -1,5 +1,5 @@
 // import {CookieUtil} from "./lib/cookieUtil.js"
-// CookieUtil.set('member','Chaanthip')
+// CookieUtil.set('member','Chanathip')
 // CookieUtil.set('color-tone','pastel',new Date('December 1,2022'))
 // console.log(CookieUtil.get('color-tone'))
 // console.log(CookieUtil.get('member'))

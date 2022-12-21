@@ -62,12 +62,10 @@ pNewElementNode.appendChild(newTextNode) //<p paraId='1'>INT201</p>
 const divAppNode=document.getElementById("App")
 divAppNode.appendChild(pNewElementNode)
 
-console.log(paraIdNode.ownerElement)
+// console.log(paraIdNode.ownerElement)
 
 const divChildren=document.body.children
-console.log(divChildren)
-console.log(divChildren[1].previousElementSibling)
-console.log(divChildren[1].nextElementSibling)
+console.log(divChildren[divChildren.length-1])
 
 
 
