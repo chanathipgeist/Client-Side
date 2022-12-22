@@ -1,0 +1,31 @@
+1.)when it has "You must remove previous ’s item list."
+    1.1)query parent that you want to remove previous 
+    1.2)that query.textContent=''
+
+2.)if it has 'input' element
+    2 option
+        2.1)document.querySelector('input')
+        2.2)document.getElementsByTagName('input')[0 or anything]
+
+3.)if it has class element
+    3.1)document.getElementByClassname('classname')[0 or something]
+    3.2)document.querySelector('.classname')
+
+4.)loop
+    4.1)forEach use for 'showItems'
+    4.2)for loop use for create something
+
+5.)can use arraylist
+
+6.)use "const variable= function()" for some function that use value to calculate
+
+7.)Event
+    7.1)event.target.(value or id or ...) = current action.(value or id or ...)
+
+8.)Check is undefined and set default
+    8.1)const var = event?.target.(id or value or ...)
+
+9.)Set style for many thing
+    8.1)query all thing
+    8.2)use forEach
+    8.3)query.style='style'
