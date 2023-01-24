@@ -1,0 +1,233 @@
+[
+  {
+    "section": 1,
+    "projectName": "KBPJJ",
+    "githubRepo": "https://github.com/Lostjerome/PROJECT1-SEC-1-KBPJJ",
+    "students": [
+      { "id": 64130500013, "name": "นางสาวชลธิชา  หลี่" },
+      { "id": 64130500017, "name": "นายณรงค์รัชช์  ธนจารุสวัสดิ์" },
+      { "id": 64130500026, "name": "นางสาวทักษพร  เลไชยสงค์" },
+      { "id": 64130500030, "name": "นายธนภัทร  จุลมีวงษ์" },
+      { "id": 64130500031, "name": "นายธนภัทร์  ดาวลอย" }
+    ]
+  },
+  {
+    "section": 1,
+    "projectName": "SoyJuTheLegend",
+    "githubRepo": "https://github.com/pawarispongrat/PROJECT1-SEC-1-SoyJuTheLegend.git",
+    "students": [
+      { "id": 64130500016, "name": "นายฌานพล  ทิพวัน" },
+      { "id": 64130500024, "name": "นายดวงเจริญ  สิวะสุธรรม" },
+      { "id": 64130500040, "name": "นายธีรศักดิ์  เจียระนานนท์" },
+      { "id": 64130500048, "name": "นายปวริศ  พงษ์รัตน์" },
+      { "id": 64130500056, "name": "นายพัชรพล  แปลนาค" }
+    ]
+  },
+  {
+    "section": 1,
+    "projectName": "DREAMLANTERN",
+    "githubRepo": "https://github.com/MarkKMUTT/PROJECT1-SEC-1-DREAMLANTERN.git",
+    "students": [
+      { "id": 64130500025, "name": "นายเตชธรรม  กาญจนสุทธากุล" },
+      { "id": 64130500036, "name": "นายธเนศร  เขียวบริบูรณ์" },
+      { "id": 64130500050, "name": "นายปุณณวิชญ์  การสามารถ" }
+    ]
+  },
+  {
+    "section": 1,
+    "projectName": "Anonymous",
+    "githubRepo": "https://github.com/PCJR27/PROJECT1-SEC-1-Anonymous.git",
+    "students": [
+      { "id": 64130500033, "name": "นายธนวัฒน์  เฉิน" },
+      { "id": 64130500045, "name": "นายนิธิศ  วิศยทักษิณ" },
+      { "id": 64130500046, "name": "นายปฏิภาณ  ศรีตั้งตรง" },
+      { "id": 64130500049, "name": "นางสาวปอชา  มี้เจริญ" }
+    ]
+  },
+  {
+    "section": 1,
+    "projectName": "MuMuekKungHungUnTunTomNueng",
+    "githubRepo": "https://github.com/Peerapon061/PROJECT1-SEC1-MuMuekKungHungUnTunTomNueng.git",
+    "students": [
+      { "id": 64130500021, "name": "นางสาวณัฐณิชา  สิรินิพัทธ์กุล" },
+      { "id": 64130500022, "name": "นายณัฐนนท์  ตั้งจินตวิวัฒน์" },
+      { "id": 64130500041, "name": "นายนราวิชญ์  โพธิวัฒนะ" },
+      { "id": 64130500061, "name": "นายพีระพล  ศรีวิชชุพงษ์" }
+    ]
+  },
+  {
+    "section": 1,
+    "projectName": "boi_046",
+    "githubRepo": "https://github.com/Project203/PROJECT1-SEC-1-boi_046.git",
+    "students": [
+      { "id": 64130500003, "name": "นางสาวกรพิณธ์  จงศรีวัฒนพร" },
+      { "id": 64130500004, "name": "นายกษิดิ์เดช  พลายเผือก" },
+      { "id": 64130500009, "name": "นายจิรพงศ์  รติวัฒน์" },
+      { "id": 64130500012, "name": "นายชนาธิป  บุพพัณหสมัย" },
+      { "id": 64130500018, "name": "นายณวรรธน์  ศรีสะอาด" }
+    ]
+  },
+  {
+    "section": 1,
+    "projectName": "LOUDPACK1337",
+    "githubRepo": "https://github.com/TanasitISTG/PROJECT1-SEC-1-LOUDPACK1337.git",
+    "students": [
+      { "id": 62130500078, "name": "นางสาววจนพร  ยนตราชีวะ" },
+      { "id": 64130500028, "name": "นายธนกร  วงษ์กลัด" },
+      { "id": 64130500034, "name": "นายธนสิทธิ  อินต๊ะขัน" },
+      { "id": 64130500055, "name": "นางสาวพัชรพร  สายสังข์" },
+      { "id": 64130500057, "name": "นายพันธกานต์  ชูศรี" }
+    ]
+  },
+  {
+    "section": 1,
+    "projectName": "ABC",
+    "githubRepo": "https://github.com/BesttJTL/PROJECT1-SEC-1-ABC.git",
+    "students": [
+      { "id": 64130500007, "name": "นายจฏลาย์  จารุศิริกุล" },
+      { "id": 64130500023, "name": "นายณัฐภัทร  งามพรชัย" },
+      { "id": 64130500027, "name": "นายเทพาธิป  ปัสบาล" }
+    ]
+  },
+  {
+    "section": 1,
+    "projectName": "Yum-yum",
+    "githubRepo": "https://github.com/thanadol1159/PROJECT1-SEC-1-Yum-yum.git",
+    "students": [
+      { "id": 64130500019, "name": "นายณัช  พูลสวัสดิ์" },
+      { "id": 64130500029, "name": "นายธนชาติ  บุญฤทธิวรรณ" },
+      { "id": 64130500035, "name": "นายธนาดล  แสงสว่าง" },
+      { "id": 64130500059, "name": "นายพิชญะ  จันทรศรีวงศ์" },
+      { "id": 64130500062, "name": "นายภคพล  ทาอุบล" }
+    ]
+  },
+  {
+    "section": 1,
+    "projectName": "noCSS",
+    "githubRepo": "https://github.com/panithee/PROJECT1-SEC-1-noCSS.git",
+    "students": [
+      { "id": 64130500002, "name": "นางสาวกมลพร  ทองไสว" },
+      { "id": 64130500014, "name": "นายชลันธร  นิยม" },
+      { "id": 64130500047, "name": "นายปณิธี  วิโรจน์วงษ์ชัย" },
+      { "id": 64130500052, "name": "นายพงศภัค  รัตนจันทรานนท์" },
+      { "id": 64130500053, "name": "นายพงษ์ไพโรจน์  ศุภพล" }
+    ]
+  },
+  {
+    "section": 2,
+    "projectName": "DoraemonLegendary",
+    "githubRepo": "https://github.com/Anon1166/PROJECT1-SEC-2-DoraemonLegendary.git",
+    "students": [
+      { "id": 64130500082, "name": "นายสรวิศ  เถาว์ชู" },
+      { "id": 64130500092, "name": "นายอานนท์  เชี่ยวชาญไพรศรี" },
+      { "id": 64130500109, "name": "นายวรธันย์  อาภรณ์ทรัพย์" },
+      { "id": 64130500113, "name": "นายสิทธิโชค  แซ่ลิ้ม" },
+      { "id": 64130500075, "name": "นายวริทธินันท์  คุณดิลกกุลธร" }
+    ]
+  },
+  {
+    "section": 2,
+    "projectName": "GeegieAndFriends",
+    "githubRepo": "https://github.com/NewBww/PROJECT1-SEC-2-GeegieAndFriends.git",
+    "students": [
+      { "id": 64130500066, "name": "นางสาวภูตะวัน  ปาลกะวงค์" },
+      { "id": 64130500079, "name": "นายศิริภูมิ  กุศลส่ง" },
+      { "id": 64130500080, "name": "นางสาวศุภาพิช  แก้วสายคุ้ม" },
+      { "id": 64130500105, "name": "นายบรรลือฤทธิ์  ศิริบูรณ์" },
+      { "id": 64130500119, "name": "นายบวรวิชญ์  อโนทัยสินทวี" }
+    ]
+  },
+  {
+    "section": 2,
+    "projectName": "vueapp",
+    "githubRepo": "https://github.com/INT203/PROJECT1-SEC-2-vueapp.git",
+    "students": [
+      { "id": 64130500100, "name": "นายธนวินท์  นิลแก้ว" },
+      { "id": 64130500110, "name": "นายธนินท์พงษ์  พันธะวงศ์" },
+      { "id": 64130500123, "name": "นายศุภวัฒน์  นามกร" },
+      { "id": 64130500124, "name": "นายอัซมี่  พุ่มสว่าง" }
+    ]
+  },
+  {
+    "section": 2,
+    "projectName": "CurrencyExchange",
+    "githubRepo": "https://github.com/RatchaF101/PROJECT1-SEC-2-CurrencyExchange.git",
+    "students": [
+      { "id": 64130500070, "name": "นายรัชพล  สงวนวงษ์" },
+      { "id": 64130500076, "name": "นางสาววริษฐา  จันทร์วันเพ็ญ" },
+      { "id": 64130500078, "name": "นางสาววิมลศิริ  วงษ์ชุน" },
+      { "id": 64130500089, "name": "นางสาวอัญชลี  ศรีปาน" },
+      { "id": 64130500097, "name": "นายเจษฎา  โชตินันทน์" }
+    ]
+  },
+  {
+    "section": 2,
+    "projectName": "TheHouse",
+    "githubRepo": "https://github.com/fernnyapxrn/PROJECT1-SEC-2-TheHouse.git",
+    "students": [
+      { "id": 64130500088, "name": "นางสาวอริศรา  ยกยอคุณ" },
+      { "id": 64130500091, "name": "นางสาวอัสรีณา  แสงนวกิจ" },
+      { "id": 64130500093, "name": "นางสาวอารียาภรณ์  โชติสิงห์" },
+      { "id": 64130500115, "name": "นายเขตโสภณ  แก้วธนะสิน" },
+      { "id": 64130500116, "name": "นายเขมทัต  กงทอง" }
+    ]
+  },
+  {
+    "section": 2,
+    "projectName": "Alumilize",
+    "githubRepo": "https://github.com/Nine0512/PROJECT1-SEC-2-Alumilize.git",
+    "students": [
+      { "id": 64130500074, "name": "นายวรวิช  หลิมทอง" },
+      { "id": 64130500099, "name": "นายณัฐดนัย  นิติพันธ์" },
+      { "id": 64130500101, "name": "นายธนินท์พงษ์  พันธะวงศ์" },
+      { "id": 64130500102, "name": "นายธันวา  แปลงมาลย์" },
+      { "id": 64130500106, "name": "นางสาวปรียาพร  เพ็ชรรัตน์" }
+    ]
+  },
+  {
+    "section": 2,
+    "projectName": "MaiRuName",
+    "githubRepo": "https://github.com/Saiparnn/PROJECT1-SEC-2-MaiRuName.git",
+    "students": [
+      { "id": 64130500081, "name": "นายเศรษฐบฎี  บุญพิทักษ์" },
+      { "id": 64130500083, "name": "นายสหรัฐ  คนึงเหตุ" },
+      { "id": 64130500098, "name": "นายณัฐชนน  บุญชู" },
+      { "id": 64130500118, "name": "นางสาวชนากานต์  นิลวัฒน์" },
+      { "id": 64130500121, "name": "นายรามิล  ปิยานุลักษณ์" }
+    ]
+  },
+  {
+    "section": 2,
+    "projectName": "TikTakTo",
+    "githubRepo": "https://github.com/napat103/PROJECT1-SEC-2-TikTakTo.git",
+    "students": [
+      { "id": 64130500063, "name": "นายภัทรกร  คุณเจริญ" },
+      { "id": 64130500067, "name": "นายภูผา  ป้อมเงิน" },
+      { "id": 64130500069, "name": "นายภูรินท์  พีรโชติกพันธุ์" },
+      { "id": 64130500103, "name": "นายนภัทร  วัฒนรัตนกุล" },
+      { "id": 64130500120, "name": "นายพัชรพล  แก้วเกษ" }
+    ]
+  },
+  {
+    "section": 2,
+    "projectName": "ProjectName",
+    "githubRepo": "https://github.com/Thiruttikorn/PROJECT1-SEC-2-ProjectName.git",
+    "students": [
+      { "id": 62130500001, "name": "นายกณวรรธน์  มะมุด" },
+      { "id": 62130500022, "name": "นางสาวฐิรัฐติกร  ศรีหวาด" },
+      { "id": 62130500095, "name": "นายสิทธินนท์  ศรีวิมลทัศน์" },
+      { "id": 62130500015, "name": "นายจิรภัทร  การะเวก" }
+    ]
+  },
+  {
+    "section": 2,
+    "projectName": "ProjectName",
+    "githubRepo": "https://github.com/64130500111/PROJECT1-SEC-2-ProjectName",
+    "students": [
+      { "id": 64130500072, "name": "นายวทัญญู  โฉมศรี " },
+      { "id": 64130500087, "name": "นายสุรเชษฏ์  พิชัยวัฒนพร " },
+      { "id": 64130500111, "name": "นายศุภกร  ฉัตรอโณทัย" },
+      { "id": 64130500122, "name": "นายวชิรวิทย์ จิตพิทยากุล" }
+    ]
+  }
+]
