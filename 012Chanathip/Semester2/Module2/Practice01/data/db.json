@@ -1,0 +1,34 @@
+{
+  "mails": [
+    {
+      "id": 1,
+      "title": "props in Vue",
+      "body": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ex similique ab est, facilis explicabo, nam aut numquam veritatis exercitationem corporis cumque voluptatem amet voluptate quidem, nisi dolore porro ratione.",
+      "keywords": ["vue", "component", "props"]
+    },
+    {
+      "id": 2,
+      "title": "Basic Component",
+      "body": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ex similique ab est, facilis explicabo, nam aut numquam veritatis exercitationem corporis cumque voluptatem amet voluptate quidem, nisi dolore porro ratione.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ex similique ab est, facilis explicabo, nam aut numquam veritatis exercitationem corporis cumque voluptatem amet voluptate quidem, nisi dolore porro ratione.",
+      "keywords": ["component", "vue"]
+    },
+    {
+      "title": "Component Events",
+      "body": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ex similique ab est, facilis explicabo, nam aut numquam veritatis exercitationem corporis cumque voluptatem amet voluptate quidem, nisi dolore porro ratione.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ex similique ab est, facilis explicabo, nam aut numquam veritatis exercitationem corporis cumque voluptatem amet voluptate quidem, nisi dolore porro ratione.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ex similique ab est, facilis explicabo, nam aut numquam veritatis exercitationem corporis cumque voluptatem amet voluptate quidem, nisi dolore porro ratione.",
+      "keywords": ["component", "event", "$emit", "vue"],
+      "id": 3
+    },
+    {
+      "title": "Introduction to Vue",
+      "body": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ex similique ab est, facilis explicabo, nam aut numquam veritatis exercitationem corporis cumque voluptatem amet voluptate quidem, nisi dolore porro ratione.  Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+      "keywords": ["vue", "compositionAPI"],
+      "id": 4
+    },
+    {
+      "title": "Component Registration",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "keywords": ["component", "registration", "local", "global", "vue"],
+      "id": 5
+    }
+  ]
+}
