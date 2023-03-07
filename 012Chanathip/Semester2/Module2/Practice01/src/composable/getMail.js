@@ -1,7 +1,7 @@
 import data from '../../data/db.json'
 
-function getMail(){
+function getMails(){
     return data.mails
 }
 
-export {getMail}
+export {getMails}
